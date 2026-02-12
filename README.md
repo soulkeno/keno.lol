@@ -1,2 +1,1 @@
-# keno.lol
-keno.lol official source code :()
+# welcome to the website
